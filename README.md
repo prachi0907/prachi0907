@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **prachi0907/prachi0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <a href="#"><img width="100%" height="auto"  src="https://www.techieapps.com/wp-content/uploads/2018/12/hire-full-stack-developers-1.gif" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Silawat</h1>
-<h3 align="center">I'm a passionate Full Stack Developer with a specialization in MERN stack from Bhopal, Madhya Pradesh (India).</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prachi Tiwari</h1>
+<h3 align="center">I'm a passionate Full Stack Developer with a specialization in MERN stack from Indore, Madhya Pradesh (India).</h3>
 
 <p align= "center">
 
